@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "decisions": {}
+  "decisions": {
+    "https://www.vespper.com/blog/launching-vespper-docx-mcp": {
+      "decision": "approve",
+      "at": "2026-09-29T07:02:35.479Z"
+    }
+  }
 }
